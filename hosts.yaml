@@ -1,0 +1,11 @@
+- host: localhost
+  user: db_user
+  password: db_password
+  database: information_schema
+  autocommit: True
+
+- host: 127.0.0.1
+  user: db_user
+  password: db_password
+  database: information_schema
+  autocommit: True
